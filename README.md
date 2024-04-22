@@ -1,1 +1,2 @@
 # assignment-06
+ The assignmnet is based on the JavaScript project. where we need to create a text processing functions and use DOM API methods to create a web page that can interact with the user. It was a great experience as this is my first JavaScript project and I am glad to create it. I looked through GeeksForGeeks or MDN articles wibsite whenever needed help. Soon I will be creating more projects on JavaScript.
